@@ -1,1 +1,5 @@
+a b c
+
 Metin deneme 1 2 3
+
+değişiklik
